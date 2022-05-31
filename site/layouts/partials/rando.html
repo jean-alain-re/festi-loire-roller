@@ -1,13 +1,11 @@
 <div class="bg-grey-1">
     <div class="mhn1-l center mw7">
-      <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
-      <p class="w-60-l mb0">{{.text}}</p>
-      <h3 class="f4 w-60-l mb0">Organisateur(s)</h3>
-      <div class="bg-grey-1">
-          {{ range .orga }}
-          <a href="{{.link}}" class="mb2"><img src="{{.logo}}" target="_blank" alt="{{.name}}" title="{{.name}}"></a>
-          {{ end }}
-      </div>
+      <h2 class="f2 b lh-title mb2">{{.heading}}{{ range .orga }}
+        <a href="{{.link}}" class="mb2"><img src="{{.logo}}" target="_blank" alt="{{.name}}" title="{{.name}}"></a>
+        {{ end }}</h2>
+      {{ range .texts }}
+      <p class="w-60-l mb0">{{ . }}</p>
+      {{ end }}
       <ul class="mhn2">
         {{ range .socials }}
           {{ partial "social-icon" . }}
