@@ -11,6 +11,8 @@ intro:
 randos:
     - image: /img/rle.jpg
       text: "Il y en a pour tous les goûts avec la \"Rando Loire Estuaire\" du samedi et 3 longueurs de parcours proposées pour s'adapter à chacun."
+    - image: /img/Nantes_Roller_RVB_Bzl.png
+      text: "Nantes-Roller vous proopose une balade nocture pour partir à la découverte de Nantes."
     - image: /img/rlv.jpg
       text: "La \"Rando Loire Vignes\" du dimanche vous fera découvrir le terroir nantais avec une petite dégustation le midi."
 inscriptions:
