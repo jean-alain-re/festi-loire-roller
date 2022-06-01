@@ -2,8 +2,8 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ range .Params.randos }}
-  {{ partial "rando" . }}
-{{ end }}
+{{ partial "rle" .Params.rle }}
+{{ partial "nr" .Params.nr }}
+{{ partial "rlv" .Params.rlv }}
 
 {{ end }}
