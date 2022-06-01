@@ -4,15 +4,7 @@ type: randos
 image: /img/flr-jumbotron.jpg
 randos:
   - heading: Rando Loire Estuaire
-    text: "Le Roller Club Herblinois/RS3C Couëron vous propose une randonnée roller pour découvrir l’estuaire de la Loire et son marais jusqu’à Cordemais.
-      Départ à Couëron.
-      Rendez-vous dès 8h30.
-      3 parcours : 30, 50 et 65 km seront possible.
-      Pour le 30 et 45 un retour en bus est prévu limité à 55 places.
-      Pause déjeuner à Cordemais.
-      Niveau bleu, rouge et noir.
-      Casque obligatoire, protections individuelles recommandées
-      + contact + socials + images ?"
+    text: Description + contact + socials + images ?
     orga:
       - name: Roller Club Herblinois
         logo: /img/rch.png
@@ -30,7 +22,7 @@ randos:
         logo: /img/nr.png
         link: https://www.nantes-roller.com/
   - heading: Rando Loire Vignes
-    text: La Rando Loire Vignes vous propose un parcours longeant la Loire, traversant les exploitations maraîchères du pays nantais pour déboucher sur le terroir viticole vallonné du Muscadet. Ce parcours tranquille de 44 km avec une extension facultative de 12 km saura titiller vos papilles.
+    text: Description + contact
     orga:
       - name: ALSS Roller Sports
         logo: /img/alss.png
