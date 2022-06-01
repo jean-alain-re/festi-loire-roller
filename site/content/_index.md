@@ -1,20 +1,20 @@
 ---
-title: "Festi'Loire Roller"
-subtitle: Grand weekend roller en région nantaise
-image: /img/flr-jumbotron.jpg
+title: "Great coffee with a conscience"
+subtitle: Support sustainable farming while enjoying a cup
+image: /img/home-jumbotron.jpg
 blurb:
-    heading: Pourquoi ce weekend ?
-    text: "Notre département et notre région sont très actifs dans le roller et comptent de très nombreux pratiquants. Nous avons également une grande offre de sorties organisées et notamment deux randonnées vertes autour de Nantes labellisées par la FFRS. Nous avons souhaité offrir la possibilité à ceux qui viennent de loin de participer aux deux en un seul weekend. Et tant qu'à venir sur Nantes, nous nous sommes associés à Nantes-Roller, organisateur des randos urbaines du jeudi soir à Nantes, pour compléter le weekend avec une balade nocture le samedi soir dans le centre de Nantes."
+    heading: Why Kaldi?
+    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
-    heading: "Ce que nous vous proposons"
-    text: "Les samedi 10 et dimanche 11 septembre 2022 : Nous commençons le weekend le samedi matin à Couëron à l'Ouest de Nantes pour une randonnées en remontant l'estuaire de la Loire jusqu'à Cordemais, des boucles de plusieurs longueurs vous sont proposées selon vos envies avec pique-nique le midi. Après le diner, nous vous attendons dans le centre de Nantes pour vous faire découvriren nocturne la ville et ses attractions typiques. Enfin, rendez-vous le dimanche matin à Saint-Sébastien-sur-Loire pour une grande boucle le long de la Loire, au coeur des exploitations maraîchères et dans le vignoble valloné. Une pause pique-nique animée est prévu à mi-parcours."
-randos:
-    - image: /img/rle.jpg
-      text: "Il y en a pour tous les goûts avec la \"Rando Loire Estuaire\" du samedi et 3 longueurs de parcours proposées pour s'adapter à chacun."
-    - image: /img/rlv.jpg
-      text: "La \"Rando Loire Vignes\" du dimanche vous fera découvrir le terroir nantais avec une petite dégustation le midi."
-inscriptions:
-    heading: Inscriptions
-    text: "La participation aux deux randonnées en journée est soumise à inscription. Ne tardez pas, nous vous réservons un tarif préférentiel jusqu'à mi-juillet, profitez-en !"
+    heading: "What we offer"
+    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+products:
+    - image: img/illustrations-coffee.svg
+      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    - image: /img/illustrations-coffee-gear.svg
+      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+values:
+    heading: Our values
+    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
 

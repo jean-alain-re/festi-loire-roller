@@ -1,7 +1,7 @@
 ---
-title: Nos randonnes
-type: randos
-image: /img/flr_jumbotron.jpg
+title: Our Coffee
+type: products
+image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
