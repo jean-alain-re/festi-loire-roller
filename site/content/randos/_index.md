@@ -29,13 +29,8 @@ randos:
       - name: Nantes-Roller
         logo: /img/nr.png
         link: https://www.nantes-roller.com/
-    socials:
-      - link: "https://www.facebook.com/NantesRoller/"
-        svg: "icons-facebook"
-      - link: "https://instagram.com/nantesroller/"
-        svg: "icons-instagram"
   - heading: Rando Loire Vignes
-    text: "La Rando Loire Vignes vous propose un parcours longeant la Loire, traversant les exploitations maraîchères du pays nantais pour déboucher sur le terroir viticole vallonné du Muscadet. Ce parcours tranquille de 44 km avec une extension facultative de 12 km saura titiller vos papilles. Toutes les infos pratiques sur notre page facebook ci-dessous."
+    text: La Rando Loire Vignes vous propose un parcours longeant la Loire, traversant les exploitations maraîchères du pays nantais pour déboucher sur le terroir viticole vallonné du Muscadet. Ce parcours tranquille de 44 km avec une extension facultative de 12 km saura titiller vos papilles.
     orga:
       - name: ALSS Roller Sports
         logo: /img/alss.png
