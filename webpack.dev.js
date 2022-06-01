@@ -1,6 +1,6 @@
 const merge = require("webpack-merge");
 const path = require("path");
-const {CleanWebpackPlugin} = require("clean-webpack-plugin");
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const common = require("./webpack.common");
@@ -19,6 +19,8 @@ module.exports = merge(common, {
     watchContentBase: true,
     quiet: false,
     open: true,
+    disableHostCheck: true,
+    compress: true,
     historyApiFallback: {
       rewrites: [{from: /./, to: "404.html"}]
     }
