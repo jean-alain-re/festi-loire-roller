@@ -3,11 +3,13 @@
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw7">{{.intro.text}}</p>
 
-    <div class="flex-ns mhn2-ns mb3">
+    <div class="flex-ns mhn2-ns mb3 justify-center">
       {{ range .randos }}
       <div class="ph2-ns">
-        <img src="{{.image}}" alt="" class="center db mb3 h4-l" >
-        <p>{{.text}}</p>
+        <a href="{{.link}}">
+          <img src="{{.image}}" alt="" class="center db mb3 h4-l" >
+          <p>{{.text}}</p>
+        </a>
       </div>
       {{ end }}
     </div>
