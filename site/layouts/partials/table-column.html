@@ -3,13 +3,14 @@
 	<!-- Title -->
 	<h3 class="b f5 grey-3 tc lh-title mb3">{{.plan}}</h3>
 
-	<!-- Price -->
-	<p class="primary f1 b tc lh-title center">
-		<span class="f4">$</span>{{.price}}
-	</p>
+	<!-- Image -->
+	<div class="h4 bg-center cover" style="background-image: url('{{.image}}')"></div>
 
 	<!-- Description -->
-	<p class="b">{{.description}}</p>
+	<p class="b tc h2">{{.description}}</p>
+
+	<!-- Start -->
+	<p><a target="_blank" href="{{.mapLink}}">{{.start}}</a></p>
 
 	<!-- Features -->
 	<ul>
@@ -20,5 +21,7 @@
 		</li>
 		{{ end }}
 	</ul>
+
+	<p><a target="_blank" href="{{.facebookEvent}}">Evènement facebook</a></p>
 
 </div>
