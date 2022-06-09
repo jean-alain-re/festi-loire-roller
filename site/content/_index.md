@@ -10,7 +10,7 @@ intro:
     text: "Les samedi 10 et dimanche 11 septembre 2022 : Nous commençons le weekend le samedi matin à Couëron à l'Ouest de Nantes pour une randonnées en remontant l'estuaire de la Loire jusqu'à Cordemais, des boucles de plusieurs longueurs vous sont proposées selon vos envies avec pique-nique le midi. Après le diner, nous vous attendons dans le centre de Nantes pour vous faire découvrir en nocturne ses différents quartiers. Enfin, rendez-vous le dimanche matin à Saint-Sébastien-sur-Loire pour une grande boucle le long de la Loire, au coeur des exploitations maraîchères et dans le vignoble vallonné. Une pause pique-nique animée est prévue à mi-parcours."
 randos:
     - image: /img/rle.jpg
-      text: "Il y en a pour tous les goûts avec la \"Rando Loire Estuaire\" du samedi et 3 longueurs de parcours proposées pour s'adapter à chacun."
+      text: "Il y en a pour tous les goûts avec la \"Rando Loire Estuaire\" du samedi et 2 longueurs de parcours proposées pour s'adapter à chacun."
     - image: /img/Nantes_Roller_RVB_Bzl.png
       text: "Nantes-Roller vous proopose une balade nocture pour partir à la découverte de Nantes."
     - image: /img/rlv.jpg
