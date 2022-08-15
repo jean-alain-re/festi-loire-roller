@@ -6,14 +6,13 @@
     <div class="flex-ns mhn2-ns mb3 justify-center">
       {{ range .randos }}
       <div class="ph2-ns">
-        <a href="{{.link}}">
+        <a href="{{.link}}" class="no-underline">
           <img src="{{.image}}" alt="" class="center db mb3 h4-l" >
-          <p>{{.text}}</p>
+          <p class="tj">{{.text}}</p>
         </a>
       </div>
       {{ end }}
     </div>
-
     <div class="tc">
       <a href="/randos" class="btn raise">Voir toutes les randos</a>
     </div>

@@ -17,11 +17,13 @@
 		{{ $itemCount := len .items }}
 		{{ range $index, $item := .items }}
 		<li>
-			<p class="{{ if ne (add 1 $index) $itemCount }}pb2 mb2 divider-grey{{ end }}">{{ $item }}</p>
+			<p class="pb2 mb2 divider-grey">{{ $item }}</p>
 		</li>
 		{{ end }}
+		<li>
+			{{ range .socials }}
+          {{ partial "social-icon" . }}
+        {{ end }}
+		</li>
 	</ul>
-
-	<p><a target="_blank" href="{{.facebookEvent}}">Evènement facebook</a></p>
-
 </div>
