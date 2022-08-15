@@ -2,7 +2,7 @@
 title: "Informations pratiques"
 image: /img/header.png
 infos:
-  - heading: "Comment venir aux départs depuis les transport en commun depuis la gare de Nantes ?"
+  - heading: "Comment venir aux départs depuis la gare de Nantes avec les transports en commun ?"
     text: |
       Pour aller à Couëron
       Bus : Gare Sncf - Tram n°1 puis ligne 91 arrêt Couëron-Audubon 50min Gratuit
