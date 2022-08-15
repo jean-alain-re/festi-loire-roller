@@ -1,0 +1,16 @@
+<div class="bg-grey-1">
+    <div class="mhn1-l center mw7">
+      <h2 class="f2 b lh-title mb2">{{.heading}}{{ range .orga }}
+        <a href="{{.link}}" class="mb2" target="_blank"><img src="{{.logo}}" alt="{{.name}}" title="{{.name}}"></a>
+        {{ end }}</h2>
+      {{ range .texts }}
+      <p class="w-60-l mb0">{{ . }}</p>
+      {{ end }}
+      <ul class="mhn2">
+        {{ range .socials }}
+          {{ partial "social-icon" . }}
+        {{ end }}
+				</ul>
+    </div>
+</div>
+  
