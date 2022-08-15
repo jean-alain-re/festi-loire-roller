@@ -2,12 +2,16 @@
 title: "Informations pratiques"
 image: /img/header.png
 infos:
-  - heading: "Déplacement entre les randos"
+  - heading: "Comment venir aux départs depuis les transport en commun depuis la gare de Nantes ?"
     text: |
-      Train Nantes 7h46 - Couëron 8h00 (600m à pied) Gratuit
-      Train Couëron 18h50 - Nantes 19h06 Gratuit
-      Train Nantes 8h39 - Saint-Sébastien Frêne Rond 7h45 (500m à pied) Gratuit
-      Train Nantes 18h12 - Saint-Sébastien Frêne Rond 18h20 Gratuit
+      Pour aller à Couëron
+      Bus : Gare Sncf - Tram n°1 puis ligne 91 arrêt Couëron-Audubon 50min Gratuit
+      TER : Nantes 7h46 - Couëron 8h00 (600m à pied) Gratuit
+      TER : Couëron 18h50 - Nantes 19h06 Gratuit
+
+      Pour aller à Saint-Sébastien Sur Loire
+      TER : Nantes 8h39 - Saint-Sébastien Frêne Rond 8h45 (500m à pied) Gratuit
+      TER : Nantes 18h12 - Saint-Sébastien Frêne Rond 18h20 Gratuit
   - heading: "Pour toutes les randos"
     text: |
       Merci de vérifier l'état de vos équipements (roues, vis, roller, ...) avant de venir aux randonnées roller et d'apporter vos clés en cas de soucis.
