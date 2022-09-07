@@ -46,7 +46,7 @@ pricing:
       start: 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire
       mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
       items:
-        - Dimanche 10 septembre
+        - Dimanche 11 septembre
         - Départ 9h15 - Arrivée 16-17h
         - 42 ou 52km
       socials:
