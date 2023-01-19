@@ -4,16 +4,15 @@ type: randos
 image: /img/header.png
 pricing:
   plans:
-    - description: Rando Loire Estuaire
-      start: Complexe Paul Langevin
-          8 Bd Paul Langevin, 44220 Couëron
+    - description: Rando Loire Sèvre
+      start: 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire
       image: /img/rle_image.jpeg
       items:
-        - Samedi 10 septembre
+        - Samedi 30 septembre
         - Départ 9h15 - Arrivée 16-17h
         - 48 ou 58km
       socials:
-        - link: "https://www.facebook.com/events/382545193566757"
+        - link: "https://www.facebook.com/events/5823482871022132"
           svg: "icons-facebook"
         - link: "https://www.instagram.com/roller.club.herblinois/"
           svg: "icons-instagram"
@@ -27,9 +26,9 @@ pricing:
     - description: Rando Roller urbaine de Nantes
       image: /img/nr_image.jpeg
       start: Pl. Alexis-Ricordeau, 44000 Nantes
-      mapLink: https://goo.gl/maps/uBZXVMdL3QQKaag59
+      mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
       items:
-        - Samedi 10 septembre
+        - Samedi 30 septembre
         - Départ 20h - Arrivée 21h30
         - 11km
       orga:
@@ -37,7 +36,7 @@ pricing:
           logo: /img/nr.png
           link: https://www.nantes-roller.com/
       socials:
-        - link: "https://www.facebook.com/events/1125105191370571/"
+        - link: "https://www.facebook.com/events/5823482871022132"
           svg: "icons-facebook"
         - link: "https://instagram.com/nantesroller/"
           svg: "icons-instagram"
@@ -46,11 +45,11 @@ pricing:
       start: 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire
       mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
       items:
-        - Dimanche 11 septembre
+        - Dimanche 1 octobre
         - Départ 9h15 - Arrivée 16-17h
         - 42 ou 52km
       socials:
-        - link: "https://www.facebook.com/events/1534398906922227/"
+        - link: "https://www.facebook.com/events/5823482871022132"
           svg: "icons-facebook"
         - link: "https://instagram.com/randoloirevignes/"
           svg: "icons-instagram"
