@@ -4,7 +4,7 @@ subtitle: "Grand weekend roller en région nantaise"
 image: /img/header.png
 blurb:
     heading: Qu'est ce que c'est ?
-    text: "La Festi'Loire Roller, c'est 3 randos roller dans la région nantaise en un seul week-end ! Découvrez ci-dessous l'édition 2022."
+    text: "La Festi'Loire Roller, c'est 3 randos roller dans la région nantaise en un seul week-end ! Découvrez ci-dessous l'édition 2023."
     strong: "Rendez-vous en 2023 les 30 septembre et 1er octobre pour la prochaine édition !"
 randos:
     - image: /img/rle_image.jpeg
