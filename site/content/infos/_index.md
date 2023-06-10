@@ -8,7 +8,7 @@ infos:
       TER : Nantes 8h39 - Saint-Sébastien Frêne Rond 8h45 (500m à pied) Gratuit
       TER : Nantes 18h12 - Saint-Sébastien Frêne Rond 18h20 Gratuit
 
-      Pour aller à la rando de Nantes depuis Saint-Sébastien Sur Loire, un départ groupé à roller depuis le gymnase de Saint-Sébastien Sur Loire s'effectuera à 19h15. Prévoir gilet réfléchissant et lumières pour le retour.
+      Pour aller à la rando de Nantes depuis Saint-Sébastien-sur-Loire, un départ groupé à roller depuis le gymnase de Saint-Sébastien Sur Loire s'effectuera à 19h15. Prévoir gilet réfléchissant et lumières pour le retour.
   - heading: "Pour toutes les randos"
     text: |
       Merci de vérifier l'état de vos équipements (roues, vis, roller, ...) avant de venir aux randonnées roller et d'apporter vos clés en cas de soucis.
