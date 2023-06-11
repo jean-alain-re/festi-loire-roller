@@ -4,13 +4,14 @@ type: randos
 image: /img/header.png
 pricing:
   plans:
-    - description: Rando Loire Sèvre
+    - description: Rando Loire
       start: 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire
       image: /img/rle_image.jpeg
+      mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
       items:
         - Samedi 30 septembre
         - Départ 9h15 - Arrivée 16-17h
-        - 48 ou 58km
+        - 54km
       socials:
         - link: "https://www.facebook.com/events/5823482871022132"
           svg: "icons-facebook"
@@ -20,17 +21,14 @@ pricing:
         - name: Roller Club Herblinois
           logo: /img/rch.png
           link: https://www.rch-roller.fr/
-        - name: Roller Sport Club Concorde Couëron
-          logo: /img/rs3c.png
-          link: https://rs3ccoueron.fr/
     - description: Rando Roller urbaine de Nantes
       image: /img/nr_image.jpeg
       start: Pl. Alexis-Ricordeau, 44000 Nantes
-      mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
+      mapLink: https://goo.gl/maps/Nppe46YqTuJ7CSqB8
       items:
         - Samedi 30 septembre
         - Départ 20h - Arrivée 21h30
-        - 11km
+        - 9km
       orga:
         - name: Nantes-Roller
           logo: /img/nr.png
@@ -45,13 +43,13 @@ pricing:
       start: 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire
       mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
       items:
-        - Dimanche 1 octobre
+        - Dimanche 1er octobre
         - Départ 9h15 - Arrivée 16-17h
-        - 42 ou 52km
+        - 44 et 56km
       socials:
         - link: "https://www.facebook.com/events/5823482871022132"
           svg: "icons-facebook"
-        - link: "https://instagram.com/randoloirevignes/"
+        - link: "https://instagram.com/festiloireroller/"
           svg: "icons-instagram"
       orga:
         - name: ALSS Roller Sports
