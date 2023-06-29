@@ -17,8 +17,9 @@ randos:
       text: "La \"Loire Vignes\" du dimanche vous fera découvrir le terroir nantais avec une petite dégustation le midi. 44 km avec une option de 12 km."
       link: /randos/
 inscriptions:
-    heading: Inscriptions (bientôt)
+    heading: Inscriptions
     image: /img/inscription.jpeg
     text: "La participation aux deux randonnées en journée est soumise à inscription. Ne tardez pas, nous vous réservons un tarif préférentiel jusqu'à mi-juillet, profitez-en avec les codes : 1EARLY2023 (1 rando), 2EARLY2023 (2 randos) ou 8EARLY2023 (groupe de 4 pour les 2 randos) !"
+    link: https://helloasso.com/associations/alss-roller-skating/evenements/festi-loire-roller-2023
 ---
 

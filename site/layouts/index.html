@@ -6,7 +6,7 @@
 
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.inscriptions.heading "text" .Params.inscriptions.text "buttonText" "Lien direct" "buttonLink" "") }}
+{{ partial "text-and-image" (dict "heading" .Params.inscriptions.heading "text" .Params.inscriptions.text "buttonText" "Lien direct" "buttonLink" .Params.inscriptions.link) }}
 
 <!-- {{ partial "blog" . }} -->
 
