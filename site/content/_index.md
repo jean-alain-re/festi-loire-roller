@@ -21,6 +21,6 @@ randos:
 inscriptions:
     heading: Inscriptions
     image: /img/inscription.jpeg
-    text: "La participation aux deux randonnées en journée est soumise à inscription. Ne tardez pas, nous vous réservons un tarif préférentiel prolongé jusqu'à fin juillet, profitez-en avec les codes : 1EARLY2023 (1 rando), 2EARLY2023 (2 randos) ou 8EARLY2023 (groupe de 4 pour les 2 randos) !"
+    text: "La participation aux deux randonnées en journée est soumise à inscription. Ne tardez pas, les tarifs augmenteront après mi-septembre !"
     link: https://helloasso.com/associations/alss-roller-skating/evenements/festi-loire-roller-2023
 ---
