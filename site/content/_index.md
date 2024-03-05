@@ -10,13 +10,13 @@ blurb:
     strong: "Rendez-vous les 5 et 6 octobre pour la prochaine édition 2024 !"
 randos:
     - image: /img/rle_image.jpeg
-      text: "Partez à la découverte de la Loire. 54km avec visite optionnelle d'un parc avec un panorama sur la Loire le temps du pique-nique."
+      text: "Partez à la découverte de la Loire. /!\\ Circuit en construction. /!\\"
       link: /randos/
     - image: /img/nr_image.jpeg
       text: "Nantes-Roller vous propose, exceptionnellement le samedi soir, une balade nocture pour découvrir   Nantes. 9 km dans le centre de Nantes."
       link: /randos/
     - image: /img/rlv_image.jpeg
-      text: "La \"Loire Vignes\" du dimanche vous fera découvrir le terroir nantais avec une petite dégustation le midi. 44 km avec une option de 12 km."
+      text: "La \"Loire Vignes\" du dimanche vous fera découvrir le terroir nantais avec une petite dégustation le midi. 44 km avec une option de 12 km après le pique-nique."
       link: /randos/
 inscriptions:
     heading: Inscriptions
