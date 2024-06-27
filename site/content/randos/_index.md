@@ -11,7 +11,7 @@ pricing:
       items:
         - Samedi 5 octobre 2024
         - Départ 9h15 - Arrivée 16-17h
-        - <En cours>
+        - 50 + 6km en option avant pique nique (niveau bleu)
       socials:
         - link: "https://www.facebook.com/events/1088566722338804"
           svg: "icons-facebook"
@@ -45,7 +45,7 @@ pricing:
       items:
         - Dimanche 6 octobre 2024
         - Départ 9h15 - Arrivée 16-17h
-        - 44km + 12km optionnels après pique-nique
+        - 44 + 12km optionnels après pique-nique (niveau bleu)
       socials:
         - link: "https://www.facebook.com/events/1088566722338804"
           svg: "icons-facebook"
