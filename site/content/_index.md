@@ -10,7 +10,7 @@ blurb:
     strong: "Rendez-vous les 5 et 6 octobre pour la prochaine édition 2024 !"
 randos:
     - image: /img/rle_image.jpeg
-      text: "Partez à la découverte de la Loire. /!\\ Circuit en construction. /!\\"
+      text: "Partez à la découverte de la Loire. Ce circuit vous fera découvrir les rives droite et gauche de la Loire en passant sur les ponts la traversant. 50 km avec une option de 6 km en plus."
       link: /randos/
     - image: /img/nr_image.jpeg
       text: "Nantes-Roller vous propose, exceptionnellement le samedi soir, une balade nocture pour découvrir   Nantes. 9 km dans le centre de Nantes."
