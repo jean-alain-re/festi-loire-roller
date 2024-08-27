@@ -21,6 +21,6 @@ randos:
 inscriptions:
     heading: Inscriptions
     image: /img/inscription.jpeg
-    text: "La participation aux deux randonnées en journée est soumise à inscription. Profitez dès l'ouverture des tarifs avec les codes \"Early Birds\" suivants : 1EARLY2024 pour 1 seule rando, 2EARLY2024 pour les 2 randos et 8EARLY2024 pour les groupes."
+    text: "La participation aux deux randonnées en journée est soumise à inscription. Ne tardez pas à faire la vôtre avant la majoration des dernières semaines."
     link: https://helloasso.com/associations/alss-roller-skating/evenements/festi-loire-roller-2024
 ---
