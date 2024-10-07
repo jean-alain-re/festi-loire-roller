@@ -7,7 +7,7 @@ video:
 blurb:
     heading: Qu'est ce que c'est ?
     text: "La Festi'Loire Roller, c'est 3 randos roller dans la région nantaise en un seul week-end ! Découvrez ci-dessous l'édition 2024."
-    strong: "Rendez-vous les 5 et 6 octobre pour la prochaine édition 2024 !"
+    strong: "Rendez-vous en 2025 pour la prochaine édition !"
 randos:
     - image: /img/rle_image.jpeg
       text: "Partez à la découverte de la Loire. Ce circuit vous fera découvrir les rives droite et gauche de la Loire en passant sur les ponts la traversant. 50 km avec une option de 6 km en plus."
@@ -21,6 +21,6 @@ randos:
 inscriptions:
     heading: Inscriptions
     image: /img/inscription.jpeg
-    text: "La participation aux deux randonnées en journée est soumise à inscription. Ne tardez pas à faire la vôtre avant la majoration des dernières semaines."
-    link: https://helloasso.com/associations/alss-roller-skating/evenements/festi-loire-roller-2024
+    text: "La participation aux deux randonnées en journée est soumise à inscription. La billetterie n'est pas encore ouverte pour 2025."
+    link: 
 ---
