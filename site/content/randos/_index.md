@@ -9,7 +9,7 @@ pricing:
       image: /img/rle_image.jpeg
       mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
       items:
-        - Samedi 5 octobre 2024
+        - Samedi 27 septembre 2025
         - Départ 9h15 - Arrivée 16-17h
         - 50 + 6km en option avant pique nique (niveau bleu)
       socials:
@@ -26,7 +26,7 @@ pricing:
       start: Pl. Alexis-Ricordeau, 44000 Nantes
       mapLink: https://goo.gl/maps/Nppe46YqTuJ7CSqB8
       items:
-        - Samedi 5 octobre 2024
+        - Samedi 27 septembre 2025
         - Départ 20h - Arrivée 21h30
         - 9km
       orga:
@@ -43,7 +43,7 @@ pricing:
       start: 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire
       mapLink: https://goo.gl/maps/RGxAzmp58bXEDMJS9
       items:
-        - Dimanche 6 octobre 2024
+        - Dimanche 28 septembre 2025
         - Départ 9h15 - Arrivée 16-17h
         - 44 + 12km optionnels après pique-nique (niveau bleu)
       socials:
