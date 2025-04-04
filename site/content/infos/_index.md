@@ -24,7 +24,7 @@ infos:
   - heading: "Déplacement"
     text: |
       Les transports en communs (bus, chronobus, trams, busway, TER) de l'agglomération nantaise sont gratuits le weekend. Profitez-en!
-      Pour préparer déplacements, le site https://www.destineo.fr/fr/ est à votre disposition.
+      Pour préparer déplacements, le site https://aleop.paysdelaloire.fr est à votre disposition.
       Des parkings vélos et voitures sont disponibles pour les 2 randos en journée. Pour la rando du soir privilégiiez les parkings P+R.
       Faites du co-voiturage lorsque vous le pouvez.
     imageUrl: "/img/tan.png"
