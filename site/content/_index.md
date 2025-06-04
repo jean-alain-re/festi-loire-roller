@@ -22,5 +22,5 @@ inscriptions:
     heading: Inscriptions
     image: /img/inscription.jpeg
     text: "La participation aux deux randonnées en journée est soumise à inscription. La billetterie n'est pas encore ouverte pour 2025."
-    link: https://helloasso.com/associations/alss-roller-skating/evenements/festi-loire-roller-2025
+    link: https://www.helloasso.com/associations/alss-roller-skating/evenements/festi-loire-roller-2025
 ---
