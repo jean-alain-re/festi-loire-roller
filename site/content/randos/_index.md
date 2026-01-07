@@ -13,7 +13,7 @@ pricing:
         - Départ 9h15 - Arrivée 16-17h
         - 50 + 6km en option avant pique nique (niveau bleu)
       socials:
-        - link: "https://www.facebook.com/events/1088566722338804"
+        - link: "https://www.facebook.com/events/4190166481304311"
           svg: "icons-facebook"
         - link: "https://instagram.com/festiloireroller/"
           svg: "icons-instagram"
@@ -37,7 +37,7 @@ pricing:
           logo: /img/nr.png
           link: https://www.nantes-roller.com/
       socials:
-        - link: "https://www.facebook.com/events/1088566722338804"
+        - link: "https://www.facebook.com/events/4190166481304311"
           svg: "icons-facebook"
         - link: "https://instagram.com/nantesroller/"
           svg: "icons-instagram"
@@ -50,7 +50,7 @@ pricing:
         - Départ 9h15 - Arrivée 16-17h
         - 44 + 12km optionnels après pique-nique (niveau bleu)
       socials:
-        - link: "https://www.facebook.com/events/1088566722338804"
+        - link: "https://www.facebook.com/events/4190166481304311"
           svg: "icons-facebook"
         - link: "https://instagram.com/festiloireroller/"
           svg: "icons-instagram"
