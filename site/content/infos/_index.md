@@ -8,7 +8,7 @@ infos:
       TER : Nantes 8h39 - Saint-Sébastien Frêne Rond 8h45 (500m à pied) Gratuit
       TER : Nantes 18h12 - Saint-Sébastien Frêne Rond 18h20 Gratuit
 
-      Pour aller à la rando de Nantes depuis Saint-Sébastien-sur-Loire, un départ groupé à roller depuis le gymnase de Saint-Sébastien Sur Loire s'effectuera à 19h15. Prévoir gilet réfléchissant et lumières pour le retour.
+      Pour aller à la rando de Nantes depuis Saint-Sébastien-sur-Loire, un départ groupé à roller facultatif est proposé depuis le gymnase de Saint-Sébastien Sur Loire qui s'effectuera à 19h15. Prévoir gilet réfléchissant et lumières pour le retour.
   - heading: "Pour toutes les randos"
     text: |
       Merci de vérifier l'état de vos équipements (roues, vis, roller, ...) avant de venir aux randonnées roller et d'apporter vos clés en cas de soucis.
@@ -18,14 +18,14 @@ infos:
     imageUrl: "/img/la.jpg"
   - heading: "Logement"
     text: |
-      Nantes et son agglomération proposent une grande variété de logements à votre disposition : Hôtels, Location auprès des habitants, ...
+      Nantes et son agglomération proposent une grande variété de logements à votre disposition : Hôtels, campings, Location auprès des habitants, ...
       Privilégiez les emplacements proches des transports en commun vous permettant de vous rendre facilement sur le départ des randonnées.
     imageUrl: "/img/love-hotel.png"
   - heading: "Déplacement"
     text: |
       Les transports en communs (bus, chronobus, trams, busway, TER) de l'agglomération nantaise sont gratuits le weekend. Profitez-en!
       Pour préparer déplacements, le site https://aleop.paysdelaloire.fr est à votre disposition.
-      Des parkings vélos et voitures sont disponibles pour les 2 randos en journée. Pour la rando du soir privilégiiez les parkings P+R.
+      Des parkings vélos et voitures sont disponibles pour les 2 randos en journée. Pour la rando du soir privilégiez les parkings P+R.
       Faites du co-voiturage lorsque vous le pouvez.
     imageUrl: "/img/tan.png"
   - heading: "Tourisme"
