@@ -13,7 +13,7 @@ randos:
       text: "Partez à la découverte de la Loire. Ce circuit vous fera découvrir les rives droite et gauche de la Loire en passant sur les ponts la traversant. 50 km avec une option de 6 km en plus."
       link: /randos/
     - image: /img/nr_image.jpeg
-      text: "Nantes-Roller vous propose, exceptionnellement le samedi soir, une balade nocture pour découvrir Nantes. 10 km dans le centre de Nantes."
+      text: "Nantes-Roller vous propose, exceptionnellement le samedi soir, une balade nocturne pour découvrir Nantes. 10 km dans le centre de Nantes."
       link: /randos/
     - image: /img/rlv_image.jpeg
       text: "La \"Loire Vignes\" du dimanche vous fera découvrir le terroir nantais avec une petite dégustation le midi. 44 km avec une option de 12 km après le pique-nique."
