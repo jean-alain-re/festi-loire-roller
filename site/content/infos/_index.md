@@ -6,8 +6,8 @@ infos:
     text: |
       ℹ️ 
           Point météo  ☀️☁️
-      Les prévision ne prévoient pas de pluie pour ce weekend. Prévoir des vêtements chauds lors de la pause du midi.
-      Les températures seront fraîches au départ (~ 12°) et s'adouciront en journée (18-23°)
+      Les prévision ne prévoient pas de pluie pour ce weekend.
+      Les températures seront fraîches au départ (~ 14°) et s'adouciront en journée (24-26°)
       Nous gardons un œil sur les prévisions les plus fines jusqu'au départ.
 
           RANDO du samedi 
@@ -59,8 +59,8 @@ infos:
       ℹ️
           Point météo  ☀️☁️
 
-      Les prévision ne prévoient pas de pluie pour ce weekend. Prévoir des vêtements chauds lors de la pause du midi.
-      Les températures seront fraîches au départ (~ 12°) et s'adouciront en journée (18-22°)
+      Les prévision ne prévoient pas de pluie pour ce weekend.
+      Les températures seront fraîches au départ (~ 14°) et s'adouciront en journée (24-26°)
       Nous gardons un œil sur les prévisions les plus fines jusqu'au départ.
 
           RANDO du dimanche 
@@ -128,7 +128,7 @@ infos:
     text: |
       Les transports en communs (bus, chronobus, trams, busway, TER) de l'agglomération nantaise sont gratuits le weekend. Profitez-en!
       Pour préparer déplacements, le site https://aleop.paysdelaloire.fr est à votre disposition.
-      Des parkings vélos et voitures sont disponibles pour les 2 randos en journée. Pour la rando du soir privilégiiez les parkings P+R.
+      Des parkings vélos et voitures sont disponibles pour les 2 randos en journée. Pour la rando du soir privilégiez les parkings P+R.
       Faites du co-voiturage lorsque vous le pouvez.
     imageUrl: "/img/tan.png"
   - heading: "Tourisme"
