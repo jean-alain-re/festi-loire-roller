@@ -2,6 +2,109 @@
 title: "Informations pratiques"
 image: /img/header.png
 infos:
+  - heading: Info Samedi
+    text: |
+      ℹ️ 
+          Point météo  ☀️☁️
+      Les prévision ne prévoient pas de pluie pour ce weekend.
+      Les températures seront fraîches au départ (~ 14°) et s'adouciront en journée (24-26°)
+      Nous gardons un œil sur les prévisions les plus fines jusqu'au départ.
+
+          RANDO du samedi 
+      Le parcours fait 55km relativement plat au milieu avec quelques montée/descente en début et fin de randonnée. Une option de 5km sera possible pour les plus motivés à la pause de l'après-midi.
+
+          Ravitaillements 
+      Durant la randonnée, nous proposerons des ravitaillements en eau, pommes, pain d'épices et barres énergétiques. Pour les ravitaillements et dans un souci de développement durable et d'éviter les déchets individuels, merci d'avoir une gourde sur soi et un verre réutilisable.
+
+          Rendez-vous 
+      On vous donne rendez-vous dès 8h00 au gymnase 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire. Pensez à présenter votre billet électronique. Une collation sera proposée avant le départ (café, brioche, ...)
+
+          Transports en commun 
+      Les transports en commun dans l'agglomération nantaise sont gratuits le week-end. Vous pouvez consulter les horaires et lignes pour vous rendre au point de départ sur le site de Destineo. Quelques informations sur les horaires et lignes pour se rendre au point de départ ou avec Aleop.
+
+          Parking 
+      Un parking vélo est disponible au gymnase et pour le stationnement des véhicules.
+
+          Équipement 
+      Le casque est obligatoire. Avant de venir, pensez à vérifier votre matériel et à apporter des clés de serrage.
+
+          Briefing 
+      Le briefing des signaleurs a lieu à 9h00 suivi de celui des participants.
+
+          Véhicule balai 
+      Un véhicule balai suivra le cortège durant toute la randonnée. N'hésitez pas à monter dedans en cas de difficulté ou incident technique.
+
+          Pique-nique 
+      Le pique-nique n'est pas fourni sauf pour les personnes avec l'option sandwich et les signaleurs. Il n'y aura pas de boulangerie à proximité. Merci de prendre votre pique-nique avant le départ de la randonnée et de prendre un petit sac à dos dans le véhicule balai. Des toilettes seront présentes au départ, à la pause du midi et à l'arrivée. Nous pouvons stocker quelques affaires dans le véhicule balai dans la limite des places disponibles et nous déclinons toutes responsabilités en cas de vol ou d'oubli.
+      NB : Possibilité de trouver des sandwichs dès 8h à la boulangerie (qui ouvre à 6h30)
+        L'amour est dans le blé
+        140 Rue de la Libération, 44230 Saint-Sébastien-sur-Loire
+        https//maps.app.goo.gl/LVfo6qaZzVarr8or8
+
+
+          Programme de la journée 
+      8h00 - 9h00  Vérification des inscriptions
+      9h00  Briefing staffeur
+      9h15  Briefing départ
+      12h30*-14h00*  Pique-nique et boucle optionnelle
+      14h45*  Départ Rando retour
+      16h30-17h*  Arrivée de la rando
+      16h30-17h*  Pot
+      *Horaire estimé
+
+          A samedi matin !
+
+  - heading: Info Dimanche
+    text: |
+      ℹ️
+          Point météo  ☀️☁️
+
+      Les prévision ne prévoient pas de pluie pour ce weekend.
+      Les températures seront fraîches au départ (~ 14°) et s'adouciront en journée (24-26°)
+      Nous gardons un œil sur les prévisions les plus fines jusqu'au départ.
+
+          RANDO du dimanche 
+      Le parcours fait 43km relativement plat au début et plus vallonné l'après-midi. Une option de 12km sera possible après le pique-nique pour les plus motivés.
+
+          Ravitaillements 
+      Durant la randonnée, nous proposerons des ravitaillements en eau, pommes, pain d'épices et barres énergétiques. Pour les ravitaillements et dans un souci de développement durable et d'éviter les déchets individuels, merci d'avoir une gourde sur soi et un verre réutilisable.
+
+          Rendez-vous 
+      On vous donne rendez-vous dès 8h00 au gymnase 64 Rue de l'Ouche Quinet, 44230 Saint-Sébastien-sur-Loire. Pensez à présenter votre billet électronique (ou votre bracelet de la veille). Une collation sera proposée avant le départ (café, brioche, ...)
+
+          Transports en commun 
+      Les transports en commun dans l'agglomération nantaise sont gratuits le week-end. Vous pouvez consulter les horaires et lignes pour vous rendre au point de départ sur le site de Destineo. Quelques informations sur les horaires et lignes pour se rendre au point de départ ou avec Aleop.
+
+          Parking 
+      Un parking vélo est disponible au gymnase et pour le stationnement des véhicules.
+
+        Équipement 
+      Le casque est obligatoire. Avant de venir, pensez à vérifier votre matériel et à apporter des clés de serrage.
+
+        Briefing 
+      Le briefing des signaleurs a lieu à 9h00 suivi de celui des participants.
+
+        Véhicule balai 
+      Un véhicule balai suivra le cortège durant toute la randonnée. N'hésitez pas à monter dedans en cas de difficulté ou d'incident.
+
+        Pique-nique 
+      Le pique-nique n'est pas fourni sauf pour les personnes avec l'option sandwich et les signaleurs. Il n'y aura pas de boulangerie à proximité. Merci de prendre votre pique-nique avant le départ de la randonnée et de prendre un petit sac à dos dans le véhicule balai. Des toilettes seront présentes au départ, à la pause du midi et à l'arrivée. Nous pouvons stocker quelques affaires dans le véhicule balai dans la limite des places disponibles et nous déclinons toutes responsabilités en cas de vol ou d'oubli.
+      NB  Possibilité de trouver des sandwichs dès 8h à la boulangerie (qui ouvre à 6h30)
+        L'amour est dans le blé
+        140 Rue de la Libération, 44230 Saint-Sébastien-sur-Loire
+
+        Programme de la journée 
+      8h00 - 9h00  Vérification des inscriptions
+      9h00  Briefing staffeur
+      9h15  Briefing départ
+      12h45*-14h45*  Pique-nique et boucle optionnelle
+      14h45*  Départ Rando retour
+      16h30-17h*  Arrivée de la rando
+      17h++*  Pot
+      *Horaire estimé
+
+      A dimanche matin !
+
   - heading: "Comment venir aux départs depuis la gare de Nantes avec les transports en commun ?"
     text: |
       Pour aller à Saint-Sébastien Sur Loire
